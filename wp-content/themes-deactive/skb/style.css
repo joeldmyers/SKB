@@ -1,0 +1,12 @@
+/*
+Theme Name: SKB
+Description: Built using <a href="http://getbootstrap.com">Bootstrap</a>.
+Version: 1.0
+Tags: responsive, bootstrap
+*/
+
+/* Styles are enqueued directly into the header and are located in
+/library/css/*.css */
+
+/* To make modifications create a child theme or edit the files in 
+/library/less/*.less */

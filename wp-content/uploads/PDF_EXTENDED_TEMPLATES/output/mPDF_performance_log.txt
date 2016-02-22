@@ -1,0 +1,15 @@
+2015-08-25 12:24:57 Generated in 0.45 seconds
+2015-08-25 12:24:57 Compiled in 0.57 seconds (total)
+Peak Memory usage 87.25 MB
+PDF file size 48 kB
+Number of fonts 4
+2015-08-25 12:28:25 Generated in 0.36 seconds
+2015-08-25 12:28:25 Compiled in 0.47 seconds (total)
+Peak Memory usage 87.25 MB
+PDF file size 48 kB
+Number of fonts 4
+2015-08-25 12:30:38 Generated in 0.38 seconds
+2015-08-25 12:30:38 Compiled in 0.50 seconds (total)
+Peak Memory usage 87.25 MB
+PDF file size 48 kB
+Number of fonts 4

@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ninja-forms-uploads\n"
+"POT-Creation-Date: 2014-11-16 16:29-0500\n"
+"PO-Revision-Date: 2014-11-16 16:29-0500\n"
+"Last-Translator: \n"
+"Language-Team: WP Ninjas <info@wpninjas.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/activation.php:44
+msgid "There was an error uploading your file."
+msgstr ""
+
+#: includes/admin/help.php:17
+msgid ""
+"If you leave the advanced rename box empty, the uploaded file will retain "
+"the original user's filename. (With any special characters removed.)"
+msgstr ""
+
+#: includes/admin/help.php:18
+msgid ""
+"If you want to rename the file, however, you can. These are the conventions "
+"that Ninja Forms understands, and their effect."
+msgstr ""
+
+#: includes/admin/help.php:20
+msgid "The file's original filename, with any special characters removed."
+msgstr ""
+
+#: includes/admin/help.php:21
+msgid "The title of the current form, with any special characters removed."
+msgstr ""
+
+#: includes/admin/help.php:22
+msgid "The WordPress username for the user, if they are logged in."
+msgstr ""
+
+#: includes/admin/help.php:23
+msgid "The WordPress ID (int) for the user, if they are logged in."
+msgstr ""
+
+#: includes/admin/help.php:24
+msgid "The WordPress displayname for the user, if they are logged in."
+msgstr ""
+
+#: includes/admin/help.php:25
+msgid "The WordPress lastname for the user, if they are logged in."
+msgstr ""
+
+#: includes/admin/help.php:26
+msgid "The WordPress firstname for the user, if they are logged in."
+msgstr ""
+
+#: includes/admin/help.php:27
+msgid "Today's date in yyyy-mm-dd format."
+msgstr ""
+
+#: includes/admin/help.php:28
+msgid "Today's month in mm format."
+msgstr ""
+
+#: includes/admin/help.php:29
+msgid "Today's day in dd format."
+msgstr ""
+
+#: includes/admin/help.php:30
+msgid "Today's year in yyyy format."
+msgstr ""
+
+#: includes/admin/help.php:34
+msgid ""
+"Any characters other than letters, numbers, dashes (-) and those on the list "
+"above will be removed. This includes spaces."
+msgstr ""
+
+#: includes/admin/help.php:37
+msgid "An Example"
+msgstr ""
+
+#: includes/admin/help.php:40
+msgid "Would Yield"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:6
+msgid "Browse Uploads"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:118
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:119
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:235
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:121
+msgid "Apply"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:129
+msgid "Uploads Per Page"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:130
+msgid "Go"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:136
+msgid "Upload"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:136
+msgid "Uploads"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:159
+msgid "Go to the first page"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:160
+msgid "Go to the previous page"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:161
+msgid "Current page"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:175
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:271
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:114
+msgid "File Name"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:176
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:272
+msgid "Original User Filename"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:177
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:273
+msgid "Date"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:178
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:274
+msgid "Form Name"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:179
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:275
+msgid "User Name"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:180
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:276
+msgid "File Location"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:234
+msgid "View this file"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:234
+#: includes/fields/file-uploads.php:352
+msgid "View"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:235
+msgid "Delete this file"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:260
+msgid "No files found"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:293
+msgid "Uploads Deleted"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/browse-uploads.php:296
+msgid "Upload Deleted"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:11
+msgid "Find File Uploads"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:91
+msgid "Select A Form"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:94
+msgid "All Forms"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:108
+msgid "User"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:108
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:114
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:118
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:124
+msgid "Optional"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:112
+msgid "login, email, user ID"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:118
+msgid "File Type"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:124
+msgid "Date Range"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:126
+msgid "Begin Date"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:131
+msgid "End Date"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/browse-uploads/sidebars/select-uploads.php:139
+msgid "Filter File Uploads"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/external-settings/external-settings.php:36
+msgid "External Settings"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:39
+msgid "Upload Settings"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:44
+msgid "Max File Size (in MB)"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:45
+#, php-format
+msgid ""
+"Your server's maximum file size is set to %s. This setting cannot be "
+"increased beyond this value. To increase your server file size limit, please "
+"contact your host."
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:50
+msgid "File upload error message"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:122
+msgid "Custom Directory"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:127
+msgid ""
+"If you want to create dynamic directories, you can put folder names in this "
+"box. You can use the following shortcodes, please include a slash at the "
+"beginning and a trailing slash"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:128
+msgid "For example: /custom/director/structure/"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:129
+msgid "Puts in the title of the current form without any spaces"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:130
+msgid "Puts in the user's username if they are logged in"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:131
+msgid "Puts in the date in yyyy-mm-dd (1998-05-23) format"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:132
+msgid "Puts in the month in mm (04) format"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:133
+msgid "Puts in the day in dd (20) format"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:134
+msgid "Puts in the year in yyyy (2011) format"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:138
+msgid "Full Directory"
+msgstr ""
+
+#: includes/admin/pages/ninja-forms-uploads/tabs/upload-settings/upload-settings.php:157
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/display/scripts.php:40
+msgid "Really delete this item?"
+msgstr ""
+
+#: includes/display/processing/pre-process.php:112
+msgid "File exceeds maximum file size. File must be under: "
+msgstr ""
+
+#: includes/display/processing/pre-process.php:237
+msgid "File type is not allowed: "
+msgstr ""
+
+#: includes/display/processing/process.php:184
+msgid "File Upload Error"
+msgstr ""
+
+#: includes/external/amazon.php:29
+msgid "Access Key"
+msgstr ""
+
+#: includes/external/amazon.php:35
+msgid "Secret Key"
+msgstr ""
+
+#: includes/external/amazon.php:41
+msgid "Bucket Name"
+msgstr ""
+
+#: includes/external/amazon.php:47
+msgid "File Path"
+msgstr ""
+
+#: includes/external/amazon.php:48
+msgid "The default file path in the bucket where the file will be uploaded to"
+msgstr ""
+
+#: includes/external/dropbox.php:27
+#, php-format
+msgid "Connect to %s"
+msgstr ""
+
+#: includes/external/dropbox.php:79
+msgid "Disconnect"
+msgstr ""
+
+#: includes/external/dropbox.php:81
+msgid "Connect"
+msgstr ""
+
+#: includes/external/dropbox.php:102
+#, php-format
+msgid "Connected to %s"
+msgstr ""
+
+#: includes/external/dropbox.php:111
+#, php-format
+msgid "Disconnected from %s"
+msgstr ""
+
+#: includes/external/external.php:53
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: includes/fields/file-uploads.php:13
+msgid "Allowed File Types"
+msgstr ""
+
+#: includes/fields/file-uploads.php:13
+msgid ""
+"Comma Separated List of allowed file types. An empty list means all file "
+"types are accepted. (i.e. .jpg, .gif, .png, .pdf) This is not fool-proof and "
+"can be tricked, please remember that there is always a danger in allowing "
+"users to upload files."
+msgstr ""
+
+#: includes/fields/file-uploads.php:19
+msgid "Rename Uploaded File"
+msgstr ""
+
+#: includes/fields/file-uploads.php:19
+msgid ""
+"Advanced renaming options. If you do not want to rename the files, leave "
+"this box blank"
+msgstr ""
+
+#: includes/fields/file-uploads.php:19
+msgid "Get help renaming files"
+msgstr ""
+
+#: includes/fields/file-uploads.php:25
+msgid "Select where to store the uploaded files"
+msgstr ""
+
+#: includes/fields/file-uploads.php:31
+msgid "Server"
+msgstr ""
+
+#: includes/fields/file-uploads.php:40
+msgid "Add this file to the WordPress Media Library?"
+msgstr ""
+
+#: includes/fields/file-uploads.php:76
+msgid "Set as featured image for the Post."
+msgstr ""
+
+#: includes/fields/file-uploads.php:124
+msgid "Allow the user to upload multiple files."
+msgstr ""
+
+#: includes/fields/file-uploads.php:131
+msgid "How many files can be uploaded?"
+msgstr ""
+
+#: includes/fields/file-uploads.php:215
+msgid "Files"
+msgstr ""
+
+#: includes/fields/file-uploads.php:217
+msgid "File"
+msgstr ""
+
+#: includes/fields/file-uploads.php:252
+msgid "Change This File"
+msgstr ""
+
+#: includes/fields/file-uploads.php:265
+msgid "New Upload"
+msgstr ""
+
+#: includes/fields/file-uploads.php:306
+msgid "Change Upload"
+msgstr ""
+
+#: includes/lib/dropbox/dropbox.php:37
+#, php-format
+msgid ""
+"The cURL extension is not loaded. %sPlease ensure its installed and "
+"activated.%s"
+msgstr ""
